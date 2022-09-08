@@ -28,4 +28,4 @@ if(promedio >= 7){
 mensajefinal1(acumulador,cantidadnotas)
 }
 else 
-mensajefinal2(acumulador,cantidadnotas)
+mensajefinal2(acumulador,cantidadnotas) 
